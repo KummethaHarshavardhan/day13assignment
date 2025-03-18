@@ -165,7 +165,32 @@ def main():
         print("invalid choice")
 
 main()
-                                
+
+
+
+'''
+output:-
+ **welcome to 5 tirties packages**
+***welcome harsha travels***
+1.agra
+2.arunachalam
+3.ayodhya
+4.thiruvananthapuram
+5.kerala
+enter your choice: 1
+agra package is 10k per person
+do you want to book this package: yes
+enter your fullname: harshavardhan
+enter your age: 20
+enter your phone_number: 6281240878
+enter your email_id: harsha@gmail.com
+enter your address: 515411
+enter the number of persons: 9
+total amount= 90135.00 
+discount=9013.50
+final amount=81121.50
+thank you sir
+PS D:\kummetha harshavardhan> '''                               
 
                 
                 
